@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="101" started-at="2020-05-16T14:37:00 ADT" finished-at="2020-05-16T14:37:00 ADT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="101" started-at="2020-05-16T14:37:00 ADT" finished-at="2020-05-16T14:37:00 ADT">
+      <class name="qucikclickacademy.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:qucikclickacademy.Mavenjava.SeleniumTest@77cd7a0]" name="browserAutomation" duration-ms="0" started-at="2020-05-16T14:37:00 ADT" finished-at="2020-05-16T14:37:00 ADT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+      </class> <!-- qucikclickacademy.Mavenjava.SeleniumTest -->
+      <class name="qucikclickacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="appiumtest()[pri:0, instance:qucikclickacademy.Mavenjava.AppiumTest@1a968a59]" name="appiumtest" duration-ms="8" started-at="2020-05-16T14:37:00 ADT" finished-at="2020-05-16T14:37:00 ADT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumtest -->
+      </class> <!-- qucikclickacademy.Mavenjava.AppiumTest -->
+      <class name="qucikclickacademy.Mavenjava.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:qucikclickacademy.Mavenjava.AppTest@4667ae56]" name="shouldAnswerWithTrue" duration-ms="5" started-at="2020-05-16T14:37:00 ADT" finished-at="2020-05-16T14:37:00 ADT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- qucikclickacademy.Mavenjava.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
