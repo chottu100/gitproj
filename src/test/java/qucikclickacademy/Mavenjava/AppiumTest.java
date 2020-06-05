@@ -8,6 +8,7 @@ public class AppiumTest {
 	public void appiumtest()
 	{
 		System.out.println("this is a test for Appium");
+		System.out.println("Change made in Develop branch");
 	}
 
 }
