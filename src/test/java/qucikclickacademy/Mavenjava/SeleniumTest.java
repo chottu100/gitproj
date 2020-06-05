@@ -9,6 +9,7 @@ public class SeleniumTest {
 	public void browserAutomation()
 	{
 		System.out.println("this is a test with Maven");
+		System.out.println("change made in Gutstuff");
 	}
 
 }
