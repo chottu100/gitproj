@@ -17,6 +17,8 @@ public class SeleniumTest {
 		System.out.println("try again gitproj");
 		
 		System.out.println("Change made in Develop branch");
+		
+		System.out.println("Change made in Develop branch in gitproj");
 
 	}
 
