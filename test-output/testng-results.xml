@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="106" started-at="2020-06-04T21:30:06 ADT" finished-at="2020-06-04T21:30:06 ADT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="106" started-at="2020-06-04T21:30:06 ADT" finished-at="2020-06-04T21:30:06 ADT">
+      <class name="qucikclickacademy.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:qucikclickacademy.Mavenjava.SeleniumTest@32709393]" name="browserAutomation" duration-ms="20" started-at="2020-06-04T21:30:06 ADT" finished-at="2020-06-04T21:30:06 ADT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+      </class> <!-- qucikclickacademy.Mavenjava.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -9,7 +9,13 @@ public class SeleniumTest {
 	public void browserAutomation()
 	{
 		System.out.println("this is a test with Maven");
+
 		System.out.println("Added to test GIT and GITHUB");
+
+		System.out.println("change made in Gutstuff");
+		
+		System.out.println("try again gitproj");
+
 	}
 
 }
