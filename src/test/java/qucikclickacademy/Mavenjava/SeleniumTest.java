@@ -21,6 +21,8 @@ public class SeleniumTest {
 		System.out.println("Change made in Develop branch in gitproj");
 
 		System.out.println("Change in master after Jenkins integration webhook");
+		
+		System.out.println("Fied issue with Maven");
 	}
 
 }
