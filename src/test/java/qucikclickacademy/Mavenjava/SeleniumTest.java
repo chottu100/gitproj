@@ -22,7 +22,9 @@ public class SeleniumTest {
 
 		System.out.println("Change in master after Jenkins integration webhook");
 		
-		System.out.println("Fied issue with Maven");
+		System.out.println("Fixed issue with Maven");
+		
+		System.out.println("Set up Personal Access credentials");
 	}
 
 }
